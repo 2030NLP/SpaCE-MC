@@ -1,5 +1,5 @@
 
-// https://2030nlp.github.io/SpaCE2023/
+// https://2030nlp.github.io/SpaCE-MC/
 
 // 基本信息 变量
 const APP_NAME = "SpaCE-MC";
@@ -241,7 +241,7 @@ const RootComponent = {
         // console.log(wrap);
         localData.mdContent = mkd.parse(wrap);
         await updateHLJS();
-        document.title = `SpaCE2023 | ${pages[localData.pageName].title}`;
+        document.title = `SpaCE-MC | ${pages[localData.pageName].title}`;
       } catch (error) {
         throw error;
         return;
