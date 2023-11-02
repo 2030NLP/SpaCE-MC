@@ -3,7 +3,7 @@
 
 ## 📮 最新消息
 
-<p class="text-center">本页面用于发布关于 <strong>中文空间语义理解评测多项选择题数据集<small>（SpaCE-MC）</small></strong> 的最新消息。
+<p class="text-center">本页面用于发布关于 <strong>中文空间语义理解选择题评测基准<small>（SpaCE-MC）</small></strong> 的最新消息。
 <br/>
 
 <br/>
