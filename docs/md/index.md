@@ -1,4 +1,5 @@
 # <center>中文空间语义理解选择题评测基准（SpaCE-MC）</center>
+# <center>（SpaCE-MC）</center>
 
 - 主办单位：北京大学
 - 组织者：詹卫东，穗志方
