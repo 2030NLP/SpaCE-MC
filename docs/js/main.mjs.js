@@ -290,7 +290,7 @@ const RootComponent = {
             <div class="col">
               <div class="rounded overflow-hidden py-4" style="border: 1px var(--pku-red) solid; color: var(--pku-red); --background:#4188bb;">
                 <div class="h1 fw-bold m-0 p-0">SpaCE-MC</div>
-                <div>中文空间语义理解评测多项选择题数据集</div>
+                <div>中文空间语义理解选择题评测基准</div>
               </div>
             </div>
           </div>
